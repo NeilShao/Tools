@@ -1,0 +1,5 @@
+int
+int
+nvarchar(128)
+nvarchar(MAX)
+bit

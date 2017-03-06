@@ -1,0 +1,20 @@
+                            {
+                                "type": "int", 
+                                "name": "IDElement"
+                            },
+                            {
+                                "type": "int", 
+                                "name": "IDTable"
+                            },
+                            {
+                                "type": "string", 
+                                "name": "elem_key"
+                            },
+                            {
+                                "type": "string", 
+                                "name": "elem_value"
+                            },
+                            {
+                                "type": "boolean", 
+                                "name": "ztag_matchedMacVendor2"
+                            }
